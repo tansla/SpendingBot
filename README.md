@@ -23,9 +23,8 @@ Some tricky part:
 3. Do tests and good luck!
 
 
-The inspiration from this video:
-https://www.youtube.com/watch?v=mKSXd_od4Lg
+The inspiration from this [video](https://www.youtube.com/watch?v=mKSXd_od4Lg)
 
-A lot thanks goes to Wim den Herder!
-https://www.linkedin.com/in/wimdenherder
+A lot thanks goes to [Wim den Herder](https://www.linkedin.com/in/wimdenherder)!
+
 
